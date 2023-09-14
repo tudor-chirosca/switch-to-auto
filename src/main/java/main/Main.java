@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Switch to automation!");
         System.out.println("Solving conflicts");
         System.out.println("new text");
+        System.out.println("We study how to resolve conflicts!");
     }
 }
