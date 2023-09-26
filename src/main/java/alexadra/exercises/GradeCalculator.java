@@ -2,22 +2,24 @@ package alexadra.exercises;
 
 import java.util.Scanner;
 
-public class CalculateGradescore {
+public class GradeCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("enter student score: ");
+        System.out.println("Enter student score: ");
         int score = scanner.nextInt();
+        char grade;
         if (score <= 100 && score >= 90) {
-            System.out.println("A");
+            grade = 'A';
         } else if (score >= 80 && score <= 89) {
-            System.out.println("B");
+            grade = 'B';
         } else if (score >= 70 && score <= 79) {
-            System.out.println("C");
+            grade = 'C';
         } else if (score >= 60 && score <= 69) {
-            System.out.println("D");
+            grade = 'D';
         } else {
-            System.out.println("F");
+            grade = 'F';
         }
+        System.out.println("Grade is: " + grade);
         scanner.close();
     }
 }
