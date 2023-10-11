@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f1fb95e-bc40-4281-91af-3739515860d6" name="Changes" comment="exercise 4.19">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sabrina/exercises/companysales/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sabrina/exercises/SalesCommissionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sabrina/exercises/companysales/SalesCommissionCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/sabrina/exercises/BasicCalculator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VO6eg7vGjOWWZUxBMsSVs9I0y2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SalesCommissionCalculator">
+    <configuration name="CalculateBodyMassIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sabrina.exercises.CalculateBodyMassIndex" />
+      <module name="switch-to-auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sabrina.exercises.companysales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateGradescore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alexadra.exercises.CalculateGradescore" />
+      <module name="switch-to-auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alexadra.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sabrina.exercises.CalculateRectangleArea" />
+      <module name="switch-to-auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sabrina.exercises.companysales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateTriangleType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sabrina.exercises.CalculateTriangleType" />
+      <module name="switch-to-auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sabrina.exercises.companysales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesCommissionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sabrina.exercises.companysales.SalesCommissionCalculator" />
+      <module name="switch-to-auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sabrina.exercises.companysales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SalesCommissionCalculator" />
+        <item itemvalue="Application.CalculateTriangleType" />
+        <item itemvalue="Application.CalculateRectangleArea" />
+        <item itemvalue="Application.CalculateGradescore" />
+        <item itemvalue="Application.CalculateBodyMassIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1fb95e-bc40-4281-91af-3739515860d6" name="Changes" comment="" />
+      <created>1694694877704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694694877704</updated>
+    </task>
+    <task id="LOCAL-00001" summary="resolving conflicts 14 sept 2023">
+      <created>1694695249408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694695249408</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resolving conflicts 14 sept 2023">
+      <created>1694695982367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694695982367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first task 21 sept">
+      <created>1695301159686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695301159686</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third task 25 sept">
+      <created>1695654352020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695654352020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third task 25 sept">
+      <created>1695732308314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695732308314</updated>
+    </task>
+    <task id="LOCAL-00006" summary="calculator 27 sept">
+      <created>1695819244791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695819244792</updated>
+    </task>
+    <task id="LOCAL-00007" summary="calculator 27 sept">
+      <created>1695822070499</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695822070499</updated>
+    </task>
+    <task id="LOCAL-00008" summary="exercise 4">
+      <created>1696428376940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696428376940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task 5">
+      <created>1696835198713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696835198713</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task 5">
+      <created>1696852047895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852047895</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task 5">
+      <created>1696852135520</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852135520</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task 5">
+      <created>1696852145235</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852145235</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task 5">
+      <created>1696854834413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696854834413</updated>
+    </task>
+    <task id="LOCAL-00014" summary="exercise 5">
+      <created>1696855412328</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855412328</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercise 6">
+      <created>1696858697542</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696858697542</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exercise 4.19">
+      <created>1697019223963</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697019223963</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolving conflicts 14 sept 2023" />
+    <MESSAGE value="first task 21 sept" />
+    <MESSAGE value="third task 25 sept" />
+    <MESSAGE value="calculator 27 sept" />
+    <MESSAGE value="exercise 4" />
+    <MESSAGE value="task 5" />
+    <MESSAGE value="exercise 5" />
+    <MESSAGE value="exercise 6" />
+    <MESSAGE value="exercise 4.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 4.19" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
